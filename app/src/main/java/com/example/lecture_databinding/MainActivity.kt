@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
         //binding.dice1을 통해 dice1 이미지 찾아옴. 그걸 diceImage1에 저장
         val diceImage1 = binding.dice1
 
-        val diceImage2 = binding.dice2
+        val diceImage2 = binding.dice
 
 
         binding.DiceStartBtn.setOnClickListener{
